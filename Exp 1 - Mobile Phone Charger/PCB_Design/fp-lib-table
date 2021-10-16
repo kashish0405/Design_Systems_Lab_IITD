@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name KiCad)(type KiCad)(uri "D:/recovery files/Spring2021/elp305/nEW_/LT8631EFE#PBF/KiCad")(options "")(descr ""))
+  (lib (name KiCad1)(type KiCad)(uri ${KIPRJMOD}/LT8631EFE#PBF/KiCad)(options "")(descr ""))
+)

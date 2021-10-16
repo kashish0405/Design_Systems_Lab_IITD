@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SamacSys_Parts1)(type Legacy)(uri ${KIPRJMOD}/LT8631EFE#PBF/SamacSys_Parts.lib)(options "")(descr ""))
+  (lib (name PCB_dESIGN_CHARGER-rescue)(type Legacy)(uri ${KIPRJMOD}/PCB_dESIGN_CHARGER-rescue.lib)(options "")(descr ""))
+)
