@@ -1,4 +1,4 @@
-# Design Laboratory - IIT Delhi
+# Design & Systems Laboratory - IIT Delhi
 
 ## Experiment 1 - Mobile Phone Charger Design
 - Designed of a SMPS based power supply for charging a mobile phone with following specifications -
