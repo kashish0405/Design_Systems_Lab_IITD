@@ -11,4 +11,4 @@
 ## Robust Mule Bot Design
 - Designed a 4-wheeled bot to follow customers with specific electrical, mechanical and functional requirements.
 - Mule bots also have enhanced functionality of communication with each other.
-- Prepared a comprehensive report Specifications, Component Design and Model, Communication protocol and Bill of Materials.
+- Prepared a comprehensive report with Specifications, Component Design and Model, Communication protocol and Bill of Materials.
